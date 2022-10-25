@@ -33,7 +33,6 @@ import static study.querydsl.entity.QTeam.*;
 
 @SpringBootTest
 @Transactional
-@Commit
 public class QuerydslBasicTest {
 
     @Autowired
